@@ -29,19 +29,19 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/pablocpas",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: ` ${SITE.title} en Github`,
     active: true,
   },
   {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/pablo-ca%C3%B1o/",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    linkTitle: `${SITE.title} en LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
     href: "mailto:pablocpascual@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    linkTitle: `Envía un correo a ${SITE.title}`,
     active: false,
   },
 
