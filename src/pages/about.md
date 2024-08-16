@@ -10,9 +10,9 @@ Además, combino esto con mi pasión por la tecnología que me llevó a estudiar
 Vivo en Salamanca, en mi opinión la ciudad más bonita de España. 
 
 <div>
-  <img src="/assets/salamanca.png" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/salamanca.png" class="sm:w-1/2 mx-auto" alt="fotografía de la catedral de Salamanca">
 </div>
 
-> "Fotografía que hice con mi cámara anlógica"
+> Fotografía de la catedral de Salamanca que hice con mi cámara anlógica
 
 Puedes contactar conmigo a través de mi [email](mailto:pablocpascual@gmail.com).
