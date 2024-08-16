@@ -10,7 +10,7 @@ Además, combino esto con mi pasión por la tecnología que me llevó a estudiar
 Vivo en Salamanca, en mi opinión la ciudad más bonita de España. 
 
 <div>
-  <img src="/assets/salamanca.png" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/salamanca.png" class="sm:w-1/2 mx-auto" alt="coding dev illustration"> Fotooooo
 </div>
 
 Puedes contactar conmigo a través de mi [email](mailto:pablocpascual@gmail.com).
