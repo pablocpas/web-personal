@@ -8,11 +8,24 @@ const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
 
-const pagination = getPagination({
+const { paginatedPosts, totalPages, currentPage } = getPagination({
   posts: sortedPosts,
   page: 1,
   isIndex: true,
 });
+
+const pagination = {
+  data: paginatedPosts,
+  currentPage: currentPage,
+  lastPage: totalPages,
+  size: paginatedPosts.length,
+  total: posts.length,
+  url: {
+    current: "/posts",
+    next: currentPage < totalPages ? `/posts/${currentPage + 1}` : undefined,
+    prev: undefined,
+  },
+};
 ---
 
-<Posts {...pagination} />
+<Posts page={pagination} />
