@@ -1,4 +1,15 @@
-## Dostoyevski y el concepto "literally me"
+---
+title: Dostoyevski y el concepto "literally me"
+author: Pablo Caño
+pubDatetime: 2024-10-01T00:00:00Z
+featured: false
+draft: false
+tags:
+  - literatura
+  - cine
+  - dostoyevski
+description: Dostoyevski y el concepto "literally me"
+---
 
 No tenía claro con qué empezar a publicar en el blog, pero el otro día, mientras navegaba por internet, me encontré con un video ensayo sobre el concepto de "literally me". Este fenómeno en redes sociales describe cómo algunos hombres se identifican profundamente con personajes solitarios y atormentados de películas como *Drive*, *El Club de la Lucha* o *Taxi Driver*. Lo interesante de este fenómeno es la facilidad con la que logran conectar emocionalmente con estos personajes, cuyas luchas existenciales y sentimientos de alienación reflejan experiencias personales con las que muchos se sienten identificados. En cierta forma, estos personajes modernos son los herederos espirituales de los protagonistas de las obras de Dostoyevski.
 
