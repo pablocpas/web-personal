@@ -2,6 +2,7 @@
 title: Dostoyevski y el concepto "literally me"
 author: Pablo Caño
 pubDatetime: 2024-10-01T00:00:00Z
+slug: literallyme
 featured: false
 draft: false
 tags:
